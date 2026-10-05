@@ -1,6 +1,10 @@
-# Scribiz MCP server
+# Scribiz: video MCP server for YouTube transcripts, summaries and timestamps
 
-Give your AI agent the context of a video: the transcript, a summary, chapters, and the exact moments that answer a question, each with a timestamp link.
+Give Claude, Cursor, Codex or any MCP client the context of a video from its link: the transcript, a summary, chapters, and the exact moments that answer a question, each with a timestamp link. Works on YouTube, TikTok, Instagram, X and Vimeo links. No account and no API key needed to start.
+
+```bash
+claude mcp add --transport http scribiz https://scribiz.com/mcp
+```
 
 This repo holds the setup files for the hosted Scribiz MCP server at `https://scribiz.com/mcp`. The server runs on scribiz.com. The Scribiz source code is not in this repo.
 
