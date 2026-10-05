@@ -1,0 +1,12 @@
+{
+  "name": "scribiz",
+  "version": "0.1.0",
+  "description": "Give Cursor the context of a video link: transcript, summary, chapters and timestamped answers.",
+  "author": {
+    "name": "Ilias Ism"
+  },
+  "homepage": "https://scribiz.com/video-mcp?ref=cursor-directory",
+  "repository": "https://github.com/Illyism/scribiz-mcp",
+  "keywords": ["video", "transcript", "youtube", "summary", "mcp"],
+  "logo": "assets/logo.svg"
+}

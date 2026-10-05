@@ -1,0 +1,17 @@
+{
+  "name": "scribiz",
+  "displayName": "Scribiz",
+  "version": "0.1.0",
+  "description": "Give Claude the context of a video link: transcript, summary, chapters and timestamped answers.",
+  "author": {
+    "name": "Ilias Ism",
+    "url": "https://il.ly"
+  },
+  "homepage": "https://scribiz.com/video-mcp?ref=claude-plugin",
+  "repository": "https://github.com/Illyism/scribiz-mcp",
+  "keywords": ["video", "transcript", "youtube", "summary", "chapters", "mcp"],
+  "documentationUrl": "https://scribiz.com/docs/mcp?ref=claude-plugin",
+  "supportUrl": "https://github.com/Illyism/scribiz-mcp/issues",
+  "privacyPolicyUrl": "https://scribiz.com/privacy",
+  "termsOfServiceUrl": "https://scribiz.com/terms"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scribiz": {
+      "type": "http",
+      "url": "https://scribiz.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "scribiz-mcp",
+  "description": "The Scribiz MCP server and a skill for agents that work with video links.",
+  "owner": {
+    "name": "Ilias Ism",
+    "url": "https://il.ly"
+  },
+  "plugins": [
+    {
+      "name": "scribiz",
+      "source": "./",
+      "description": "Give Claude the context of a video link: transcript, summary, chapters and timestamped answers.",
+      "category": "productivity",
+      "tags": ["video", "transcript", "youtube", "mcp"]
+    }
+  ]
+}
