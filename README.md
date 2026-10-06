@@ -6,9 +6,9 @@ Give Claude, Cursor, Codex or any MCP client the context of a video from its lin
 claude mcp add --transport http scribiz https://scribiz.com/mcp
 ```
 
-[![Scribiz video MCP server: give your agent the video, not a pasted transcript. Play the 48 second demo.](assets/demo.jpg)](https://dl.scribiz.com/scribiz-mcp-demo-v1.mp4)
+[![Scribiz video MCP server: give your agent the video, not a pasted transcript. Play the 48 second demo.](assets/demo.jpg)](https://dl.scribiz.com/scribiz-mcp-demo-v2.mp4)
 
-Watch the [48 second demo](https://dl.scribiz.com/scribiz-mcp-demo-v1.mp4). Every response in it is a real call to the server.
+Watch the [48 second demo](https://dl.scribiz.com/scribiz-mcp-demo-v2.mp4). Every response in it is a real call to the server.
 
 This repo holds the setup files for the hosted Scribiz MCP server at `https://scribiz.com/mcp`. The server runs on scribiz.com. The Scribiz source code is not in this repo.
 
