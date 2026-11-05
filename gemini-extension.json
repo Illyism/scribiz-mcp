@@ -1,0 +1,10 @@
+{
+  "name": "scribiz",
+  "version": "0.1.0",
+  "description": "Video MCP server: YouTube transcripts, on-screen OCR, summaries and chapters for AI agents.",
+  "mcpServers": {
+    "scribiz": {
+      "httpUrl": "https://scribiz.com/mcp"
+    }
+  }
+}
